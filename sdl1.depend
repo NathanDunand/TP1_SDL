@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1600702757 source:/home/nathand/Bureau/C/tp1ProgAvanceSDL/sdl1/main.c
+	<SDL2/SDL.h>
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
+1600956582 source:/home/nathand/Bureau/C/tp1ProgAvanceSDL/main.c
+	<SDL2/SDL.h>
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"fonctions_SDL.h"
+
+1600788717 /home/nathand/Bureau/C/tp1ProgAvanceSDL/fonctions_SDL.h
+
